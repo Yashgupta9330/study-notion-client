@@ -1,4 +1,4 @@
-const BASE_URL = "https://studynotion-server-g61x.onrender.com"
+const BASE_URL = "https://studynotion-server-g61x.onrender.com/api/v1"
 
 
 
